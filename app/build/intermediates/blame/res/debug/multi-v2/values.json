@@ -1,0 +1,115 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\DELL\\Downloads\\MyClient3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-25.0.1.aar\\efb9ca5b23e555f8810987720460796a\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,7,8,9,10,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,989,1048,1105,1159,1573,1637,1763",
+                        "endLines": "2,3,4,5,7,8,9,16,18,21,24",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "111,173,235,299,1043,1100,1154,1568,1632,1758,1886"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,21,22,23,41,48,50,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,1883,1942,1999,2945,3359,3423,3549",
+                        "endLines": "2,3,4,5,21,22,23,47,49,52,55",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "111,173,235,299,1937,1994,2048,3354,3418,3544,3672"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL\\Downloads\\MyClient3\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1769,1827",
+                        "endColumns": "57,55",
+                        "endOffsets": "1822,1878"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL\\Downloads\\MyClient3\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,58,159",
+                        "endColumns": "52,45,52",
+                        "endOffsets": "153,99,207"
+                    },
+                    "to": {
+                        "startLines": "28,29,30",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2342,2395,2441",
+                        "endColumns": "52,45,52",
+                        "endOffsets": "2390,2436,2489"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-25.0.1.aar\\8bb9d447c19c449155b6a000cfb4db93\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "372,447,523,595",
+                        "endColumns": "74,75,71,65",
+                        "endOffsets": "442,518,590,656"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2053,2128,2204,2276",
+                        "endColumns": "74,75,71,65",
+                        "endOffsets": "2123,2199,2271,2337"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL\\Downloads\\MyClient3\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "31,38",
+                        "startColumns": "4,4",
+                        "startOffsets": "2494,2785",
+                        "endLines": "37,40",
+                        "endColumns": "12,12",
+                        "endOffsets": "2780,2940"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL\\Downloads\\MyClient3\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,4,13,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "85,128,515,171,214,257,300,343,386,429,472",
+                        "endColumns": "41,41,42,41,41,41,41,41,41,41,41",
+                        "endOffsets": "122,165,553,208,251,294,337,380,423,466,509"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "304,346,388,431,473,515,557,599,641,683,725",
+                        "endColumns": "41,41,42,41,41,41,41,41,41,41,41",
+                        "endOffsets": "341,383,426,468,510,552,594,636,678,720,762"
+                    }
+                }
+            ]
+        }
+    ]
+}
